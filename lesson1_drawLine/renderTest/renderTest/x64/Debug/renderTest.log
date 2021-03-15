@@ -1,0 +1,6 @@
+﻿  main.cpp
+h:\opengl特技\软光栅\render\rendertest\rendertest\main.cpp(33): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+h:\opengl特技\软光栅\render\rendertest\rendertest\main.cpp(34): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+h:\opengl特技\软光栅\render\rendertest\rendertest\main.cpp(35): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+h:\opengl特技\软光栅\render\rendertest\rendertest\main.cpp(36): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  renderTest.vcxproj -> H:\OpenGL特技\软光栅\render\renderTest\x64\Debug\renderTest.exe
